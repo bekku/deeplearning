@@ -1,1 +1,1 @@
-# 共有できそうなdeeplearning系
+# 共有できそうなdeep learning ネタ
